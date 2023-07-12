@@ -38,6 +38,8 @@ I have a lovely dog, her name is lily.
 ![illustration](/images/dog3.jpg){: .align-left width="800px"}
 
 
+
+
 Hobbies
 ======
 
