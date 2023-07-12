@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "💪 Hello there, I'm Jason Liu(刘珅江)"
+title: "✨ Hello there, I'm Jason Liu(刘珅江)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
