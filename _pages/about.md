@@ -33,8 +33,8 @@ Hobbies & Pets
 
 I have a lovely dog, her name is lily.
 ------
-![illustration](/images/dog1.jpg){: .align-left width="450px"}
-![illustration](/images/dog2.jpg){: .align-right width="450px"}
+![illustration](/images/dog1.jpg){: .align-left width="300px"}
+![illustration](/images/dog2.jpg){: .align-right width="300px"}
 ![illustration](/images/dog3.jpg){: .align-left width="900px"}
 
 Fun picture playing badminton with gown on.
