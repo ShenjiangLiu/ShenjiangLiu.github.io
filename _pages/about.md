@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-![illustration](/images/semiconductor_factory.jpg){: .align-right width="450px"}
+![illustration](/images/semiconductor_factory.jpg){: .align-right width="400px"}
 
-<q>己所不为勿施于人&#8230;</q> &#8211; 论语·颜渊
+<q>己所不为勿施于人</q> &#8211; 论语·颜渊
 
-<q>Do as you would be done by&#8230;</q> &#8211; Confucius
+<q>Do as you would be done by</q> &#8211; Confucius
 
 👏 I graduated from University of Illinois at Urbana-Champaign in 2022.
 
@@ -30,11 +30,12 @@ I'm a die-hard fan of sony owning PSP, PS4 and PS5 in the past and my favorate g
 
 Hobbies & Pets
 ======
+
 I have a lovely dog, her name is lily.
 ------
-![illustration](/images/dog1.jpg){: .align-left width="700px"}
-![illustration](/images/dog2.jpg){: .align-left width="700px"}
-![illustration](/images/dog3.jpg){: .align-left width="700px"}
+![illustration](/images/dog1.jpg){: .align-left width="450px"}
+![illustration](/images/dog2.jpg){: .align-right width="450px"}
+![illustration](/images/dog3.jpg){: .align-left width="900px"}
 
 Fun picture playing badminton with gown on.
 ------
