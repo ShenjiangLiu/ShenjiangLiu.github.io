@@ -33,14 +33,15 @@ Pets
 
 I have a lovely dog, her name is lily.
 ------
-![illustration](/images/dog1.jpg){: .align-left width="370px"}
-![illustration](/images/dog2.jpg){: .align-right width="370px"}
-![illustration](/images/dog3.jpg){: .align-left width="900px"}
+![illustration](/images/dog1.jpg){: .align-left width="360px"}
+![illustration](/images/dog2.jpg){: .align-right width="360px"}
+![illustration](/images/dog3.jpg){: .align-left width="800px"}
 
 
 Hobbies
 ======
+
 Fun picture playing badminton with gown on.
 ------
-![illustration](/images/badminton1.jpg){: .align-left width="700px"}
-![illustration](/images/badminton2.jpg){: .align-left width="700px"}
+![illustration](/images/badminton1.jpg){: .align-left width="360px"}
+![illustration](/images/badminton2.jpg){: .align-left width="360px"}
